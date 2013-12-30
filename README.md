@@ -1,4 +1,0 @@
-GymSis
-======
-
-Gym Administrtion System
