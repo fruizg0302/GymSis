@@ -7,7 +7,8 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    QLabel* label1 = new QLabel("One");
+
+
 }
 
 MainWindow::~MainWindow()
